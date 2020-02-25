@@ -15,5 +15,13 @@
   },
   "author": "Irene Nyakate",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irenyak1/France-Grading-System.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Irenyak1/France-Grading-System/issues"
+  },
+  "homepage": "https://github.com/Irenyak1/France-Grading-System#readme"
 }
